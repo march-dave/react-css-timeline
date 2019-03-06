@@ -6,7 +6,7 @@ class TimeLine extends Component {
       <div>
         <div className="cover">
           <h1 className="cover-title">
-            <span>The history of </span>Time line
+            <span>The history of </span>Timeline
           </h1>
         </div>
 
